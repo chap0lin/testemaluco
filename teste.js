@@ -1,7 +1,7 @@
 var a = 2
-var b = 3
+var b = 2
 
-console.log(a+c+d+f)
+console.log(a+b+c)
 
 console.log(a-b)
 
